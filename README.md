@@ -1,6 +1,6 @@
 # FedEx Frontend QA - Javascript Test Assessment
 
-#Read ASSESSMENT-SOLUTION.MD for explaination
+# Read ASSESSMENT-SOLUTION.MD for explaination
 
 # Read the ASSESSMENT
 
